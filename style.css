@@ -10,7 +10,7 @@
     padding: 20px;
     /* width: 100%;
     height: 100%; */
-    background-image: url(Crysis-Wallpapersun-1.jpg);
+    background-image: url(./images/Crysis-Wallpapersun-1.jpg);
     background-repeat: no-repeat;
     background-position: top right;
 }
@@ -165,7 +165,7 @@
 }
 section  {
 
-    background: url(1444080-4k-games-wallpaper-3840x2160-laptop.jpg);
+    background: url(./images/1444080-4k-games-wallpaper-3840x2160-laptop.jpg);
     background-size: cover;
     background-position: center;
 
